@@ -1,0 +1,10 @@
+﻿{
+    "type": "Plugin",
+    "name": "Winamp Control",
+    "author": "Sephless",
+    "repository": "https://github.com/sephless/WinampControlExtension",
+    "packageId": "Sephless.WinampControl",
+    "version": "1.1.1",
+    "target-plugin-api-version": 35,
+    "dll": "WinampControl.dll"
+}
